@@ -1,1 +1,1 @@
-A program that keeps track of student grades for multiple classes, with features like calculating averages and sorting by highest or lowest grade.
+A program that keeps track of student grades , with features like calculating averages and sorting by highest or lowest grade.

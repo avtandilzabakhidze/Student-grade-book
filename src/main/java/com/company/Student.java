@@ -7,6 +7,7 @@ import java.util.Map;
 
 public class Student {
     private String fullName;
+    private Map<String, List<Integer>> grades;
 
     public String getFullName() {
         return fullName;
@@ -16,7 +17,6 @@ public class Student {
         return grades;
     }
 
-    private Map<String, List<Integer>> grades;
 
     public Student(String fullName) {
         this.fullName = fullName;
